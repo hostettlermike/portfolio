@@ -1,0 +1,25 @@
+iframe{
+    max-width: 400px;
+    min-width: 25%;
+    height: auto;
+    max-height: 80px;
+}
+
+.box1{
+    display: flex; 
+    justify-content: center;
+    margin-top: 8em;
+}
+.box2{
+    display: flex; 
+    justify-content: center;
+    margin-top: 1em;
+}
+
+.box3{
+    display: flex; 
+    justify-content: center;
+    margin-top: 1em;
+}
+
+
